@@ -18,7 +18,8 @@ export const ui = {
     'cv.languages': 'Languages',
     'cv.contact': 'Contact',
     'cv.summary': 'Professional Summary',
-    'cv.tech': 'Tech:'
+    'cv.tech': 'Tech:',
+    'cv.exportPdf': 'Export to PDF'
   },
   es: {
     'nav.cv': 'Ver CV',
@@ -32,7 +33,8 @@ export const ui = {
     'cv.languages': 'Idiomas',
     'cv.contact': 'Contacto',
     'cv.summary': 'Resumen Profesional',
-    'cv.tech': 'Tecnologías:'
+    'cv.tech': 'Tecnologías:',
+    'cv.exportPdf': 'Exportar a PDF'
   },
 } as const;
 
