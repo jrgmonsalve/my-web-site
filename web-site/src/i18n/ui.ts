@@ -16,7 +16,9 @@ export const ui = {
     'cv.education': 'Education',
     'cv.certifications': 'Certifications',
     'cv.languages': 'Languages',
-    'cv.contact': 'Contact'
+    'cv.contact': 'Contact',
+    'cv.summary': 'Professional Summary',
+    'cv.tech': 'Tech:'
   },
   es: {
     'nav.cv': 'Ver CV',
@@ -28,7 +30,9 @@ export const ui = {
     'cv.education': 'Educación',
     'cv.certifications': 'Certificaciones',
     'cv.languages': 'Idiomas',
-    'cv.contact': 'Contacto'
+    'cv.contact': 'Contacto',
+    'cv.summary': 'Resumen Profesional',
+    'cv.tech': 'Tecnologías:'
   },
 } as const;
 

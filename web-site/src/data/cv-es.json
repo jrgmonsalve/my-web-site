@@ -6,13 +6,13 @@
         "linkedin": "linkedin.com/in/jrgmonsalve",
         "location": "Medellín, Colombia"
     },
-    "summary": "Desarrollador de Software Senior con más de 10 años de experiencia diseñando, migrando y optimizando sistemas escalables. Conocimiento en arquitecturas de microservicios y serverless utilizando AWS, Azure, Python, .NET y Node.js. Apasionado por la implementación de código limpio y la mejora continua de procesos.",
+    "summary": "Desarrollador de Software Senior con más de 10 años de experiencia diseñando, migrando y optimizando sistemas escalables. Conocimiento en arquitecturas de microservicios y serverless utilizando AWS, Azure, Python, .NET y Node.js, PHP. Apasionado por la implementación de código limpio y la mejora continua de procesos.",
     "skills": {
         "cloud": "AWS (4+ años: Lambda, Cognito, SQS, SNS, Step Functions, EventBridge, API Gateway, S3, AuroraDB, DynamoDB, SAM), Azure (2+ años: Azure Functions, CosmosDB, API Management, App Services, Table Storage, Azure DevOps).",
-        "languages": "PHP (7+ años), Python (3+ años), C# (3+ años), JavaScript / TypeScript (3+ años), Go (1+ año), Node.js (1+ año).",
+        "languages": "PHP (7+ años), Python (3+ años), C# (3+ años), JavaScript / TypeScript (3+ años), Go (~6 meses), Node.js (1+ año).",
         "frameworks": ".NET / .NET Core (3+ años), Angular (2+ años), React (1+ año), FastAPI / Django (~6 meses), Laravel (1+ año).",
         "architectures": "Microservicios, Serverless, Arquitectura Limpia, Domain-Driven Design (DDD), Microfrontends.",
-        "databases": "SQL (SQL Server, PostgreSQL, MySQL), NoSQL (DynamoDB, CosmosDB, Redis).",
+        "databases": "SQL (SQL Server, PostgreSQL, MySQL), NoSQL (DynamoDB, CosmosDB).",
         "devops": "Docker, Kubernetes (K8s), CI/CD, Git (GitFlow), GitHub Actions, GitLab CI.",
         "agile": "Scrum, Kanban",
         "platforms": "Jira, Azure DevOps, Gitlab"
@@ -22,11 +22,11 @@
             "role": "Desarrollador de Software Full Stack Sr.",
             "company": "Blossom",
             "location": "Estados Unidos",
-            "period": "Noviembre 2024 – Febrero 2026",
+            "period": "Noviembre 2024 – Febrero 2026 (1 año y 3 meses)",
             "achievements": [
-                "Diseño e implementación gran refactorización en la plataforma para aplicar un nuevo diseño de interfaz de usuario al software Blossom Lite (banca para usuarios)."
+                "Diseñé e implementé una gran refactorización en la plataforma para aplicar un nuevo diseño de interfaz de usuario al software Blossom Lite (banca para usuarios)."
             ],
-            "technologies": "AWS EC2, AWS ECS, AWS Cloudwatch, Docker, PHP, Javascript, Jquery, React, Kendo UI, Tailwind, SASS"
+            "skills": "AWS EC2, AWS Cloudwatch, Docker, PHP, Javascript, Jquery, React, Kendo UI, Tailwind, SASS"
         },
         {
             "role": "Desarrollador de Software Full Stack Sr.",
@@ -34,10 +34,10 @@
             "location": "Medellín, Colombia",
             "period": "Marzo 2024 – Julio 2024 (5 meses)",
             "achievements": [
-                "Diseñó y mantuve APIs REST en una arquitectura de microservicios y componentes de React en una arquitectura de microfrontends.",
-                "Migró exitosamente servicios de Node.js a Python, mejorando el rendimiento y la mantenibilidad."
+                "Diseñé y mantuve APIs REST en una arquitectura de microservicios y componentes de React en una arquitectura de microfrontends.",
+                "Migré exitosamente servicios de Node.js a Python, mejorando el rendimiento y la mantenibilidad."
             ],
-            "technologies": "Python, FastAPI, Node.js, React, AWS Lambda, SQL Server, Microservicios, Microfrontends."
+            "skills": "FinTech · Database Servers · Software Development · Amazon Relational Database Service (RDS) · Databases · Python · Swagger API · Microsoft SQL Server · Object-Oriented Programming (OOP) · SQL · Serverless Framework · AWS Cognito · AWS Lambda · React.js · Node.js · Microservices"
         },
         {
             "role": "Desarrollador de Software Back End Mid.",
@@ -45,10 +45,10 @@
             "location": "Bogotá D.C., Colombia",
             "period": "Junio 2023 – Enero 2024 (8 meses)",
             "achievements": [
-                "Desarrolló y mantuvo scrapers para extraer información financiera, automatizando procesos clave de recolección de datos.",
-                "Lideró una parte clave de la migración de un sistema monolítico a microservicios, moviendo el módulo de validación a AWS Lambdas."
+                "Creé y modifique scrapers que obtenían información financiera de los clientes y la dejaban disponible para ser procesada por otras áreas. ",
+                "Participé en la migración del monolito a microservicios, para el módulo de validaciones usando AWS Lambda."
             ],
-            "technologies": "Python, Django, AWS Lambda, Serverless Framework, Microservicios, Web Scraping."
+            "skills": "FinTech · Software Development · Amazon Relational Database Service (RDS) · Databases · Amazon S3 · Python · Web Scraping · Apache Airflow · PostgreSQL · Amazon Web Services (AWS) · Object-Oriented Programming (OOP) · SQL"
         },
         {
             "role": "Desarrollador de Software Back End Mid.",
@@ -56,10 +56,13 @@
             "location": "Armenia, Colombia",
             "period": "Septiembre 2022 – Febrero 2023 (6 meses)",
             "achievements": [
-                "Contribuyó a la mejora del proceso de autenticación utilizando AWS Cognito y participó activamente en el aumento de la cobertura de pruebas unitarias.",
-                "Apoyó la fusión de dos aplicaciones y la unificación de productos inmobiliarios en el sistema principal."
+                "Ayude a Agregar y mantener nuevas caracteriticas en las APIs del dashboard principal de clientes.",
+                "Apoye el proceso de fusión de productos de inmobiliaria al sistema principal",
+                "Apoye las mejoras del proceso de autenticación con AWS Cognito.",
+                "Participe activamente en el incremento de cobertura de pruebas unitarias",
+                "Cree scripts de perfilamiento de cliente para que los comerciales hicieran un reintento de compra de vivienda."
             ],
-            "technologies": "Node.js, Nest.js, Express.js, AWS Cognito, Pruebas Unitarias."
+            "skills": "Unit Testing · CI/CD · Desarrollo de API · Software Development · Amazon Relational Database Service (RDS) · Databases · MySQL · Amazon S3 · unittest · Python · HubSpot · Google BigQuery · Object-Oriented Programming (OOP) · SQL · AWS Lambda · GitLab · Scrum · Amazon Cognito"
         },
         {
             "role": "Desarrollador de Software Full Stack Sr.",
@@ -67,10 +70,11 @@
             "location": "Medellín, Colombia",
             "period": "Marzo 2020 – Febrero 2022 (2 años)",
             "achievements": [
-                "Contribuyó a la modernización del Backoffice de la empresa, transformando una aplicación monolítica en una arquitectura de microservicios.",
-                "Desarrolló microservicios aplicando principios de Arquitectura Limpia, integrados con SQL Server, CosmosDB y Apache Kafka."
+                "Apoye el proceso de renovación del Backoffice de la compañía de monolito a microservicios. ",
+                "Participe en la construcción de micro frontends con Angular y React para las pantallas de gestión de clientes.",
+                "Participe en la construcción de los microservicios encargados de la gestión de clientes y pagos de suscripciones aplicando conceptos de arquitecturas limpias."
             ],
-            "technologies": ".NET Core, C#, Angular, React, Microservicios, Microfrontends, Arquitectura Limpia, SQL Server, Azure CosmosDB, Kafka."
+            "skills": " Angular · Unit Testing · Azure CosmosDB · Apache Kafka · .NET Framework · Microsoft Azure · Desarrollo de API · Database Servers · Software Architecture · Software Development · Kanban · Git · Amazon Relational Database Service (RDS) · Databases · Azure DevOps · .NET Core · Swagger API · Kubernetes · C# · NoSQL · Microsoft SQL Server · Object-Oriented Programming (OOP) · Azure Kubernetes Service (AKS) · SQL · Java · Docker Products · React.js · DevOps · Metodologías ágiles · Docker · Microservices · JavaScript"
         },
         {
             "role": "Ingeniero Full Stack",
@@ -78,9 +82,9 @@
             "location": "Medellín, Colombia",
             "period": "Octubre 2019 – Febrero 2020 (5 meses)",
             "achievements": [
-                "Contribuyó al desarrollo del dashboard de la empresa para la implementación de la facturación electrónica."
+                "Contribuí al desarrollo del dashboard de la empresa para la implementación de la facturación electrónica."
             ],
-            "technologies": ".NET, C#, SQL Server, JavaScript."
+            "skills": " Angular · Microsoft Azure · Desarrollo de API · Database Servers · Software Development · Amazon Relational Database Service (RDS) · Databases · C# · Microsoft SQL Server · Object-Oriented Programming (OOP) · SQL · Docker · Microservices · JavaScript"
         },
         {
             "role": "Desarrollador de Software",
@@ -88,10 +92,10 @@
             "location": "Armenia, Colombia",
             "period": "Noviembre 2018 – Octubre 2019 (1 año)",
             "achievements": [
-                "Implementó un sistema asincrónico para la gestión de inventarios y pedidos en múltiples canales de venta.",
-                "Construyó procesos ETL con Python y AWS Athena para el análisis de datos."
+                "Implementé un sistema asincrónico para la gestión de inventarios y pedidos en múltiples canales de venta.",
+                "Construí procesos ETL con Python y AWS Athena para el análisis de datos."
             ],
-            "technologies": "PHP, Python, AWS (Athena, Lambdas), ETL, SaaS."
+            "skills": "Unit Testing · Desarrollo de API · Database Servers · Software Development · Redis · Amazon Relational Database Service (RDS) · Databases · Amazon S3 · Linux · Python · Swagger API · Amazon Athena · NoSQL · Object-Oriented Programming (OOP) · SQL · Vue.js · PHP · AWS Lambda · Docker Products · DevOps · Docker"
         },
         {
             "role": "Desarrollador de Software",
@@ -99,9 +103,9 @@
             "location": "Bogotá D.C., Colombia",
             "period": "Mayo 2018 – Noviembre 2018 (7 meses)",
             "achievements": [
-                "Implementó módulos de seguridad para la aplicación principal utilizando Laravel y Passport."
+                "Implementé módulos de seguridad para la aplicación principal utilizando Laravel y Passport."
             ],
-            "technologies": "PHP, Laravel, Passport, MySQL."
+            "skills": "Software Development · Amazon Relational Database Service (RDS) · Databases · MySQL · Object-Oriented Programming (OOP) · SQL · PHP · Laravel · Docker · JavaScript"
         },
         {
             "role": "Líder Técnico",
@@ -109,10 +113,10 @@
             "location": "Bogotá D.C., Colombia",
             "period": "Marzo 2009 – Diciembre 2016 (7 años, 10 meses)",
             "achievements": [
-                "Lideró la optimización de consultas y bases de datos (Postgres), implementando replicación maestro-esclavo para mejorar el tiempo de respuesta del sistema.",
-                "Gestionó conexiones con plataformas de operadores en Centro/Sudamérica y lideró temporalmente el departamento de TI."
+                "Lideré la optimización de consultas y bases de datos (Postgres), implementando replicación maestro-esclavo para mejorar el tiempo de respuesta del sistema.",
+                "Gestioné conexiones con plataformas de operadores en Centro/Sudamérica y lideré temporalmente el departamento de TI."
             ],
-            "technologies": "PHP, PostgreSQL, Linux, Shell Scripting."
+            "skills": "Technical Leadership · CodeIgniter · Database Servers · Software Development · Redis · Amazon Relational Database Service (RDS) · Databases · Linux · Python · Software Design · PostgreSQL · NoSQL · Object-Oriented Programming (OOP) · SOAP · SMS · SQL · PHP · Docker Products · tech lead"
         }
     ],
     "certifications": [
