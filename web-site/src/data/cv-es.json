@@ -8,9 +8,9 @@
     },
     "summary": "Desarrollador de Software Senior con más de 10 años de experiencia diseñando, migrando y optimizando sistemas escalables. Conocimiento en arquitecturas de microservicios y serverless utilizando AWS, Azure, Python, .NET y Node.js. Apasionado por la implementación de código limpio y la mejora continua de procesos.",
     "skills": {
-        "cloud": "AWS (Avanzado, 4+ años: Lambda, Cognito, SQS, SNS, Step Functions, EventBridge, API Gateway, S3, AuroraDB, DynamoDB, SAM), Azure (Intermedio, 2+ años: Azure Functions, CosmosDB, API Management, App Services, Table Storage, Azure DevOps).",
-        "languages": "PHP (Senior, 7+ años), Python (Avanzado, 3+ años), C# (Avanzado, 3+ años), JavaScript / TypeScript (Avanzado, 3+ años), Go (Junior, 1+ año), Node.js (Intermedio, 1+ año).",
-        "frameworks": ".NET / .NET Core (Avanzado, 3+ años), Angular (Intermedio, 2+ años), React (Intermedio, 1+ año), FastAPI / Django (Junior, ~6 meses), Laravel (Intermedio, 1+ año).",
+        "cloud": "AWS (4+ años: Lambda, Cognito, SQS, SNS, Step Functions, EventBridge, API Gateway, S3, AuroraDB, DynamoDB, SAM), Azure (2+ años: Azure Functions, CosmosDB, API Management, App Services, Table Storage, Azure DevOps).",
+        "languages": "PHP (7+ años), Python (3+ años), C# (3+ años), JavaScript / TypeScript (3+ años), Go (1+ año), Node.js (1+ año).",
+        "frameworks": ".NET / .NET Core (3+ años), Angular (2+ años), React (1+ año), FastAPI / Django (~6 meses), Laravel (1+ año).",
         "architectures": "Microservicios, Serverless, Arquitectura Limpia, Domain-Driven Design (DDD), Microfrontends.",
         "databases": "SQL (SQL Server, PostgreSQL, MySQL), NoSQL (DynamoDB, CosmosDB, Redis).",
         "devops": "Docker, Kubernetes (K8s), CI/CD, Git (GitFlow), GitHub Actions, GitLab CI.",
