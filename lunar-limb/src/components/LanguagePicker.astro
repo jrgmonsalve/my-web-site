@@ -1,0 +1,40 @@
+---
+import { getLangFromUrl } from '../i18n/ui';
+
+const currentLang = getLangFromUrl(Astro.url);
+
+// Extract path without current lang
+const pathParts = Astro.url.pathname.split('/').filter(Boolean);
+const pathWithoutLang = pathParts.length > 0 && ['en', 'es'].includes(pathParts[0])
+  ? pathParts.slice(1).join('/')
+  : pathParts.join('/');
+
+// Construct new routes
+const routeEs = `/${['es', pathWithoutLang].filter(Boolean).join('/')}`;
+const routeEn = `/${['en', pathWithoutLang].filter(Boolean).join('/')}`;
+---
+
+<div class="inline-flex rounded-lg border border-slate-200 bg-white p-1 text-sm shadow-sm">
+  <a
+    href={routeEn}
+    class={`px-3 py-1.5 rounded-md transition-colors ${
+      currentLang === 'en'
+        ? 'bg-indigo-600 text-white font-medium shadow-sm'
+        : 'text-slate-600 hover:text-slate-900 hover:bg-slate-50'
+    }`}
+    aria-current={currentLang === 'en' ? 'page' : undefined}
+  >
+    EN
+  </a>
+  <a
+    href={routeEs}
+    class={`px-3 py-1.5 rounded-md transition-colors ${
+      currentLang === 'es'
+        ? 'bg-indigo-600 text-white font-medium shadow-sm'
+        : 'text-slate-600 hover:text-slate-900 hover:bg-slate-50'
+    }`}
+    aria-current={currentLang === 'es' ? 'page' : undefined}
+  >
+    ES
+  </a>
+</div>

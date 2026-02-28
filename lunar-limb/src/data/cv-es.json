@@ -1,0 +1,136 @@
+{
+    "personal": {
+        "name": "JOHAN RENE GARCIA MONSALVE",
+        "phone": "(+57) 301-570-7132",
+        "email": "johangarcia@outlook.com",
+        "linkedin": "linkedin.com/in/jrgmonsalve",
+        "location": "Medellín, Colombia"
+    },
+    "summary": "Desarrollador de Software Senior con más de 10 años de experiencia diseñando, migrando y optimizando sistemas escalables. Conocimiento en arquitecturas de microservicios y serverless utilizando AWS, Azure, Python, .NET y Node.js. Apasionado por la implementación de código limpio y la mejora continua de procesos.",
+    "skills": {
+        "cloud": "AWS (Avanzado, 4+ años: Lambda, Cognito, SQS, SNS, Step Functions, EventBridge, API Gateway, S3, AuroraDB, DynamoDB, SAM), Azure (Intermedio, 2+ años: Azure Functions, CosmosDB, API Management, App Services, Table Storage, Azure DevOps).",
+        "languages": "PHP (Senior, 7+ años), Python (Avanzado, 3+ años), C# (Avanzado, 3+ años), JavaScript / TypeScript (Avanzado, 3+ años), Go (Junior, 1+ año), Node.js (Intermedio, 1+ año).",
+        "frameworks": ".NET / .NET Core (Avanzado, 3+ años), Angular (Intermedio, 2+ años), React (Intermedio, 1+ año), FastAPI / Django (Junior, ~6 meses), Laravel (Intermedio, 1+ año).",
+        "architectures": "Microservicios, Serverless, Arquitectura Limpia, Domain-Driven Design (DDD), Microfrontends.",
+        "databases": "SQL (SQL Server, PostgreSQL, MySQL), NoSQL (DynamoDB, CosmosDB, Redis).",
+        "devops": "Docker, Kubernetes (K8s), CI/CD, Git (GitFlow), GitHub Actions, GitLab CI.",
+        "agile": "Scrum, Kanban",
+        "platforms": "Jira, Azure DevOps, Gitlab"
+    },
+    "experience": [
+        {
+            "role": "Desarrollador de Software Full Stack Sr.",
+            "company": "Blossom",
+            "location": "Estados Unidos",
+            "period": "Noviembre 2024 – Febrero 2026",
+            "achievements": [
+                "Diseño e implementación gran refactorización en la plataforma para aplicar un nuevo diseño de interfaz de usuario al software Blossom Lite (banca para usuarios)."
+            ],
+            "technologies": "AWS EC2, AWS ECS, AWS Cloudwatch, Docker, PHP, Javascript, Jquery, React, Kendo UI, Tailwind, SASS"
+        },
+        {
+            "role": "Desarrollador de Software Full Stack Sr.",
+            "company": "Viamericas Corporation",
+            "location": "Medellín, Colombia",
+            "period": "Marzo 2024 – Julio 2024 (5 meses)",
+            "achievements": [
+                "Diseñó y mantuve APIs REST en una arquitectura de microservicios y componentes de React en una arquitectura de microfrontends.",
+                "Migró exitosamente servicios de Node.js a Python, mejorando el rendimiento y la mantenibilidad."
+            ],
+            "technologies": "Python, FastAPI, Node.js, React, AWS Lambda, SQL Server, Microservicios, Microfrontends."
+        },
+        {
+            "role": "Desarrollador de Software Back End Mid.",
+            "company": "KLYM",
+            "location": "Bogotá D.C., Colombia",
+            "period": "Junio 2023 – Enero 2024 (8 meses)",
+            "achievements": [
+                "Desarrolló y mantuvo scrapers para extraer información financiera, automatizando procesos clave de recolección de datos.",
+                "Lideró una parte clave de la migración de un sistema monolítico a microservicios, moviendo el módulo de validación a AWS Lambdas."
+            ],
+            "technologies": "Python, Django, AWS Lambda, Serverless Framework, Microservicios, Web Scraping."
+        },
+        {
+            "role": "Desarrollador de Software Back End Mid.",
+            "company": "Habi",
+            "location": "Armenia, Colombia",
+            "period": "Septiembre 2022 – Febrero 2023 (6 meses)",
+            "achievements": [
+                "Contribuyó a la mejora del proceso de autenticación utilizando AWS Cognito y participó activamente en el aumento de la cobertura de pruebas unitarias.",
+                "Apoyó la fusión de dos aplicaciones y la unificación de productos inmobiliarios en el sistema principal."
+            ],
+            "technologies": "Node.js, Nest.js, Express.js, AWS Cognito, Pruebas Unitarias."
+        },
+        {
+            "role": "Desarrollador de Software Full Stack Sr.",
+            "company": "SATRACK",
+            "location": "Medellín, Colombia",
+            "period": "Marzo 2020 – Febrero 2022 (2 años)",
+            "achievements": [
+                "Contribuyó a la modernización del Backoffice de la empresa, transformando una aplicación monolítica en una arquitectura de microservicios.",
+                "Desarrolló microservicios aplicando principios de Arquitectura Limpia, integrados con SQL Server, CosmosDB y Apache Kafka."
+            ],
+            "technologies": ".NET Core, C#, Angular, React, Microservicios, Microfrontends, Arquitectura Limpia, SQL Server, Azure CosmosDB, Kafka."
+        },
+        {
+            "role": "Ingeniero Full Stack",
+            "company": "Siigo S.A.",
+            "location": "Medellín, Colombia",
+            "period": "Octubre 2019 – Febrero 2020 (5 meses)",
+            "achievements": [
+                "Contribuyó al desarrollo del dashboard de la empresa para la implementación de la facturación electrónica."
+            ],
+            "technologies": ".NET, C#, SQL Server, JavaScript."
+        },
+        {
+            "role": "Desarrollador de Software",
+            "company": "Atlanticsoft",
+            "location": "Armenia, Colombia",
+            "period": "Noviembre 2018 – Octubre 2019 (1 año)",
+            "achievements": [
+                "Implementó un sistema asincrónico para la gestión de inventarios y pedidos en múltiples canales de venta.",
+                "Construyó procesos ETL con Python y AWS Athena para el análisis de datos."
+            ],
+            "technologies": "PHP, Python, AWS (Athena, Lambdas), ETL, SaaS."
+        },
+        {
+            "role": "Desarrollador de Software",
+            "company": "Grupo OET",
+            "location": "Bogotá D.C., Colombia",
+            "period": "Mayo 2018 – Noviembre 2018 (7 meses)",
+            "achievements": [
+                "Implementó módulos de seguridad para la aplicación principal utilizando Laravel y Passport."
+            ],
+            "technologies": "PHP, Laravel, Passport, MySQL."
+        },
+        {
+            "role": "Líder Técnico",
+            "company": "SMS Americas Colombia Ltda",
+            "location": "Bogotá D.C., Colombia",
+            "period": "Marzo 2009 – Diciembre 2016 (7 años, 10 meses)",
+            "achievements": [
+                "Lideró la optimización de consultas y bases de datos (Postgres), implementando replicación maestro-esclavo para mejorar el tiempo de respuesta del sistema.",
+                "Gestionó conexiones con plataformas de operadores en Centro/Sudamérica y lideró temporalmente el departamento de TI."
+            ],
+            "technologies": "PHP, PostgreSQL, Linux, Shell Scripting."
+        }
+    ],
+    "certifications": [
+        "AWS Certified Solutions Architect – Associate (En progreso)",
+        "Construyendo Aplicaciones Modernas con Python en AWS (edX)",
+        "Design Thinking (Cymetri Group)",
+        "Curso de Arquitecturas Limpias para el Desarrollo de Software (Platzi)",
+        "Programación Go (Básico e Intermedio) (Platzi)"
+    ],
+    "education": [
+        {
+            "degree": "Técnico Profesional en Implementación de Software",
+            "institution": "Politécnico Grancolombiano | Colombia",
+            "period": "Abril 2014 – Abril 2016"
+        }
+    ],
+    "languages": {
+        "es": "Nativo",
+        "en": "Intermedio (B2)"
+    }
+}
